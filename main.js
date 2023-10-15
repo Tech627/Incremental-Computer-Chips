@@ -9,15 +9,15 @@ let Generators = {
         amount: 0,
     },
     Generator2: {
-        cost: 1,
+        cost: 100,
         amount: 0,
     },
     Generator3: {
-        cost: 1,
+        cost: 1000,
         amount: 0,
     },
     Generator4: {
-        cost: 1,
+        cost: 100000,
         amount: 0,
     }
 }
